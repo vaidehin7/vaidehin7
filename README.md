@@ -1,3 +1,14 @@
+<h1 align="center">Hi 👋, I'm Vaidehi</h1>
+<hr>
+
+<h3 align="center">A passionate developer from India 🇮🇳</h3>
+
+<p align="center">
+  <a href="https://github.com/vaidehin7">
+    <img src="https://komarev.com/ghpvc/?username=vaidehin7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
+
 # 💫 About Me:
 👩‍💻 2nd-year Engineering Student | Aspiring Software Developer<br><br>🌱 Currently learning Web Development and programming fundamentals.<br><br>🧩 Exploring Python, DSA, Artificial Intelligence, and Open Source.<br><br>🛠️ Building projects and continuously improving my technical skills.
 
@@ -15,6 +26,5 @@
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=vaidehin7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
